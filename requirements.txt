@@ -1,0 +1,10 @@
+ipykernel
+langchain_community
+langchain_groq
+langchain_huggingface
+langchain_chroma
+langchain_text_splitters
+sentence-transformers
+load_dotenv
+streamlit 
+streamlit-cookies-manager
