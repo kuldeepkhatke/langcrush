@@ -88,7 +88,7 @@ st.sidebar.markdown(
     """
     <div style="margin-top: 2rem; text-align: center;">
         <a href="https://www.linkedin.com/in/kuldeepkhatke/" target="_blank">
-            <img src="https://media.licdn.com/dms/image/v2/D5603AQFSzxyWkpCXBw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730832651913?e=1756339200&v=beta&t=hbhLrH38Bw_PLfmY3ajbtjS_QGbLL5L81A-5vDzzhLI">
+            <img src="https://media.licdn.com/dms/image/v2/D5603AQFjS_NQT4Eitg/profile-displayphoto-crop_800_800/B56Zlic6BoJwAI-/0/1758293369857?e=1761177600&v=beta&t=A4UmakT9I-84UoDSwaGKGf8598oNk4GtMJRKZWrSAxI">
         </a>
         <div style="font-size: 1.3rem; font-weight: bold; margin-top: 0.5rem;">
             Created by:<br>
